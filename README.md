@@ -1,3 +1,3 @@
 # Demo
 
-Practice with repo.
+Practice with a repo!
